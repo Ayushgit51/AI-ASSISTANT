@@ -15,10 +15,15 @@ A fast and lightweight AI Assistant built using Flask and Groq API. It can answe
 
 ## Project Structure
 AI-ASSISTANT/
+
 │── main.py
+
 │── templates/
+
 │── static/
+
 │── requirements.txt
+
 │── README.md
 
 ## Setup Instructions
