@@ -74,8 +74,8 @@ Method: POST
 Method: POST
 
 ## Models Used
+- openai/gpt-oss-120b
 - llama-3.3-70b-versatile
-- llama-3.1-8b-instant
 
 ## Important
 - Do NOT push your .env file  
